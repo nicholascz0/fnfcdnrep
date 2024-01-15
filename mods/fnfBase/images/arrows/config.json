@@ -1,0 +1,26 @@
+{
+  "prefixes" : ["LEFT", "DOWN", "UP", "RIGHT"],
+  "colors" : ["pruple","blue","green","right"],
+  "anims" : [
+    {
+          "name" : "left",
+          "lengthinInt" : 4,
+          "tapLength" : 2
+    },
+    {
+          "name" : "down",
+          "lengthinInt" : 4,
+          "tapLength" : 2
+    },
+    {
+          "name" : "up",
+          "lengthinInt" : 4,
+          "tapLength" : 2
+    },
+    {
+          "name" : "right",
+          "lengthinInt" : 4,
+          "tapLength" : 2
+    }
+  ]
+}
