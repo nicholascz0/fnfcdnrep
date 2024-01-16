@@ -1,6 +1,6 @@
 {
   "prefixes" : ["LEFT", "DOWN", "UP", "RIGHT"],
-  "colors" : ["pruple","blue","green","right"],
+  "colors" : ["pruple","blue","green","red"],
   "anims" : [
     {
           "name" : "left",
